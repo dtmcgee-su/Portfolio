@@ -1,0 +1,16 @@
+ {
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio with all relevant previous projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan McGee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
